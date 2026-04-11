@@ -37,7 +37,7 @@ To perform end-to-end data analysis including data cleaning, transformation, ana
 
 ## 📊 Key Insights
 - India shows the highest contribution in salary distribution  
-- Marketing and IT departments perform strongly compared to others  
+- Marketing and Sales departments perform strongly compared to others  
 - Salary trends vary across employees indicating performance differences  
 
 ## 📈 Final Output
