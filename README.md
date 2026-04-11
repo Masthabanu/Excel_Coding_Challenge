@@ -46,8 +46,7 @@ To perform end-to-end data analysis including data cleaning, transformation, ana
 - User-friendly and structured layout  
 
 ## Dashboard
-
-
+<img src="dashboard.png" width="400">
 
 ## 🚀 Conclusion
 This project demonstrates the complete data analysis process using Excel, from data cleaning to dashboard creation. It helped improve analytical thinking, data visualization skills, and the ability to present insights effectively.
